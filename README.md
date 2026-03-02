@@ -7,7 +7,7 @@ The dashboard helps identify customers who are at Low, Medium, and High Risk of 
 
 The objective is to support proactive customer retention strategies using data-driven insights.
 
-**🎯 Business Objective**
+#🎯 Business Objective
 
 To identify high-risk customers early and help businesses reduce churn by analyzing:
 
@@ -21,7 +21,7 @@ To identify high-risk customers early and help businesses reduce churn by analyz
 
 -Monthly Charges
 
-**📈 Key Metrics**
+#📈 Key Metrics
 
 Total Customers: 26,701
 
@@ -33,7 +33,7 @@ Medium Risk Customers: 14,689
 
 % High Risk Customers: 25.27%
 
-**🔍 Key Insights**
+#🔍 Key Insights
 
 Customers with 5+ support calls show significantly higher churn probability.
 
@@ -43,7 +43,7 @@ Customers in the High Risk category contribute most to overall churn.
 
 Tenure and subscription type influence churn behavior patterns.
 
-**🛠 Tools & Techniques Used**
+#🛠 Tools & Techniques Used
 
 Microsoft Excel
 
@@ -61,7 +61,7 @@ Dashboard Design & Layout Structuring
 
 ![Dashboard Preview](dashboard_preview.png)
 
-**🚀 Project Outcomes**
+##🚀 Project Outcomes
 
 Identified key churn-driving factors such as support calls and payment delays
 
@@ -73,7 +73,7 @@ Demonstrated strong skills in data cleaning, analysis, visualization, and dashbo
 
 Transformed raw customer data into actionable business insights
 
-**✅ Final Conclusion**
+##✅ Final Conclusion
 
 The analysis reveals that customer churn is strongly influenced by behavioral and payment-related factors. Customers with frequent support interactions and payment delays beyond 20 days show significantly higher churn probability.
 
