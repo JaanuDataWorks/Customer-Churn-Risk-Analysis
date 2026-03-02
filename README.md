@@ -57,9 +57,9 @@ Excel Formulas
 
 Dashboard Design & Layout Structuring
 
-**📷 Dashboard Preview**
-![Dashboard Preview](<img width="1223" height="688" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/49597283-a3df-43cb-a4e6-bb75289a8483" />
-)
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
 
 **🚀 Project Outcomes**
 
