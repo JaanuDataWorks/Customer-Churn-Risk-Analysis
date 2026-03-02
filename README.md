@@ -7,7 +7,7 @@ The dashboard helps identify customers who are at Low, Medium, and High Risk of 
 
 The objective is to support proactive customer retention strategies using data-driven insights.
 
-🎯 Business Objective
+**🎯 Business Objective**
 
 To identify high-risk customers early and help businesses reduce churn by analyzing:
 
