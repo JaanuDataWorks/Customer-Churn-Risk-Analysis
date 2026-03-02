@@ -33,7 +33,7 @@ Medium Risk Customers: 14,689
 
 % High Risk Customers: 25.27%
 
-#🔍 Key Insights
+##🔍 Key Insights
 
 Customers with 5+ support calls show significantly higher churn probability.
 
