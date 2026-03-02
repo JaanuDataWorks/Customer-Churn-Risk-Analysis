@@ -11,9 +11,13 @@ The objective is to support proactive customer retention strategies using data-d
 To identify high-risk customers early and help businesses reduce churn by analyzing:
 
 -Tenure Group
+
 -Subscription Type
+
 -Number of Support Calls
+
 -Payment Delay (Days)
+
 -Monthly Charges
 
 📈 Key Metrics
@@ -27,3 +31,50 @@ High Risk Customers: 6,747
 Medium Risk Customers: 14,689
 
 % High Risk Customers: 25.27%
+
+🔍 Key Insights
+
+Customers with 5+ support calls show significantly higher churn probability.
+
+Payment delays beyond 20 days drastically increase churn risk.
+
+Customers in the High Risk category contribute most to overall churn.
+
+Tenure and subscription type influence churn behavior patterns.
+
+🛠 Tools & Techniques Used
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+Data Cleaning & Transformation
+
+Excel Formulas
+
+Dashboard Design & Layout Structuring
+📷 Dashboard Preview
+![Dashboard Preview](<img width="1223" height="688" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/49597283-a3df-43cb-a4e6-bb75289a8483" />
+)
+
+Project Outcomes
+
+Identified key churn-driving factors such as support calls and payment delays
+
+Built an interactive Excel dashboard for churn risk segmentation
+
+Enabled data-driven decision-making for customer retention
+
+Demonstrated strong skills in data cleaning, analysis, visualization, and dashboard design
+
+Transformed raw customer data into actionable business insights
+
+✅ Final Conclusion
+
+The analysis reveals that customer churn is strongly influenced by behavioral and payment-related factors. Customers with frequent support interactions and payment delays beyond 20 days show significantly higher churn probability.
+
+The dashboard clearly segments customers into Low, Medium, and High Risk categories, enabling targeted retention strategies. High-risk customers represent a critical segment that requires immediate intervention to prevent revenue loss.
+
+Tenure and subscription type also contribute to churn trends, indicating that early-stage customers and certain subscription plans may require enhanced engagement strategies
