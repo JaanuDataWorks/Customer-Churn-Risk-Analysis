@@ -6,6 +6,7 @@ This project analyzes customer churn risk using Microsoft Excel.
 The dashboard helps identify customers who are at Low, Medium, and High Risk of churn based on behavioral and transactional factors.
 
 The objective is to support proactive customer retention strategies using data-driven insights.
+
 🎯 Business Objective
 
 To identify high-risk customers early and help businesses reduce churn by analyzing:
@@ -55,11 +56,12 @@ Data Cleaning & Transformation
 Excel Formulas
 
 Dashboard Design & Layout Structuring
+
 📷 Dashboard Preview
 ![Dashboard Preview](<img width="1223" height="688" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/49597283-a3df-43cb-a4e6-bb75289a8483" />
 )
 
-Project Outcomes
+🚀 Project Outcomes
 
 Identified key churn-driving factors such as support calls and payment delays
 
