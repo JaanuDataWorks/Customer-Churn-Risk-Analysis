@@ -59,7 +59,7 @@ Dashboard Design & Layout Structuring
 
 ## 📷 Dashboard Preview
 
-![dashboard_preview](https://github.com/JaanuDataWorks/Customer-Churn-Risk-Analysis/blob/main/dashboard_preview.png.png)
+[dashboard_preview](https://github.com/JaanuDataWorks/Customer-Churn-Risk-Analysis/blob/main/dashboard_preview.png.png)
 
 ## 🚀 Project Outcomes
 
